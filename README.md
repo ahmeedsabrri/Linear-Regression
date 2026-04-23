@@ -1,4 +1,4 @@
-# ft_linear_regression
+# Linear-Regression
 
 An introduction to machine learning through first-principles engineering.
 
